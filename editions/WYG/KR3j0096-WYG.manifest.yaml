@@ -1,0 +1,46 @@
+canonical_identifier: bkk:krp/KR3j0096/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3j0096/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 晁氏客語
+  date: '2015-08-24 23:23:02.723274'
+  source:
+    repository: kanripo
+    path: KR3j0096
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3j0096_000-WYG.yaml, hash: 'sha256:518a983f7c462af9a79a18712a3d7ef3d5c4fb206c7ca6d2052e1ee82fa23823'}
+  - {seq: 1, filename: KR3j0096_001-WYG.yaml, hash: 'sha256:a1d1b07ae128771558e7f163c7175e44272c4669dd3b48cf0a6ae30750f0269c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3j0096_000-WYG.markers.yaml, hash: 'sha256:7e6c4d8c4062af0ee51f89e60a482f17a32b2116b5daf457e32558014c532578'}
+  - {seq: 1, role: markers, filename: assets/KR3j0096_001-WYG.markers.yaml, hash: 'sha256:93de6172e484b27589ae804cbcfe1d176b551cc9ab4301e4ef46a4538532b740'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3j0096_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 305
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3j0096_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 15532
+  label: 晁氏客語
+  type: section
+  level: 1
+hash: sha256:4a0586a0b65133273490d10696cb3b5115706131680c7f4574b9c8797a03fb4e
