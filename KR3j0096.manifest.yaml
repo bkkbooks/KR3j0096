@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR3j0096_000.yaml, hash: 'sha256:95019e1e84c936c78ba668d0bba5ef655443030b3e1c7eb802595c4f4cc0be58'}
   - {seq: 1, filename: KR3j0096_001.yaml, hash: 'sha256:fd99a4171aafa97c598f77a4cf1c44de7e073b217aafb476f291ae8e6be856f7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3j0096_000.markers.yaml, hash: 'sha256:2bb17e6c68d005451f55d120073d43f6c90936715d5c917c8f178b427e2df3c6'}
-  - {seq: 1, role: markers, filename: assets/KR3j0096_001.markers.yaml, hash: 'sha256:7c19db05af0770f9105bb6efca798e869307b8f73a626160ac65f9481a0c37db'}
+  - {seq: 0, role: markers, filename: assets/KR3j0096_000.markers.yaml, hash: 'sha256:a694276481538ab7faa32f0a75b2cd64c6486924f3cefde247b83ebb5001c430'}
+  - {seq: 1, role: markers, filename: assets/KR3j0096_001.markers.yaml, hash: 'sha256:3dece045bd10fb5866703bee0a86e75e8ec10427f8d688b09ef8815273fe027e'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 晁氏客語
   type: section
   level: 1
-hash: sha256:5913e086944682c6403d809c16f2d2863e32edc45c41f0082a070c9e357e3a86
+hash: sha256:a9b62a5f9b9a664bf73a47ce97382259df4f0a7959ad211539e859c9ea4407c9
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
